@@ -60,7 +60,7 @@ Your go-to tool for displaying detailed system information on Windows! Skidfetch
 Basic Features:
 * Lightweight: Minimal resource usage ensures Skidfetch runs smoothly on any system. ⚙️
 * User-Friendly: Easy to install and configure, even for beginners. 👪
-* You should implement DRY principles to the rest of your life :smile:
+* Detailed System Info: Displays comprehensive information about your system, including OS, CPU, RAM, and more. :smile:
 
 
 Use the `BLANK_README.md` to get started.
